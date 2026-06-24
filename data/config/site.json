@@ -1,0 +1,38 @@
+{
+	"title": "Casumi",
+	"subtitle": "✦ 二次元与技术の交错之境 ✦",
+	"siteURL": "https://casumi713.github.io/",
+	"navbarTitle": {
+		"mode": "text-icon",
+		"text": "Casumi",
+		"icon": "assets/images/casuki-transparent.webp",
+		"logo": "assets/images/casuki-transparent.webp"
+	},
+	"banner": {
+		"desktop": [
+			"/assets/desktop-banner/1.webp",
+			"/assets/desktop-banner/2.webp",
+			"/assets/desktop-banner/3.webp",
+			"/assets/desktop-banner/4.webp",
+			"/assets/desktop-banner/5.webp",
+			"/assets/desktop-banner/6.webp"
+		],
+		"mobile": [
+			"/assets/mobile-banner/1.webp",
+			"/assets/mobile-banner/2.webp",
+			"/assets/mobile-banner/3.webp",
+			"/assets/mobile-banner/4.webp",
+			"/assets/mobile-banner/5.webp",
+			"/assets/mobile-banner/6.webp"
+		],
+		"homeText": {
+			"title": "✨ Casumi's Nest ✨",
+			"subtitle": [
+				"🌸 编程 · 动漫 · 日常 🌸",
+				"🎮 努力成为一个很厉害的人 🎮",
+				"⭐ 在代码与二次元之间徘徊 ⭐",
+				"🍵 一杯茶，一段代码，一部番 🍵"
+			]
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"localPlaylist": [
+		{
+			"id": 1,
+			"title": "口笛で愛は歌えない",
+			"artist": "Dazbee",
+			"cover": "assets/music/cover/dazbee.webp",
+			"url": "assets/music/url/dazbee.mp3",
+			"duration": 0
+		},
+		{
+			"id": 2,
+			"title": "ひとり上手",
+			"artist": "Kaya",
+			"cover": "assets/music/cover/hitori.webp",
+			"url": "assets/music/url/hitori.mp3",
+			"duration": 240
+		},
+		{
+			"id": 3,
+			"title": "眩耀夜行",
+			"artist": "スリズブーケ",
+			"cover": "assets/music/cover/xryx.webp",
+			"url": "assets/music/url/xryx.mp3",
+			"duration": 180
+		},
+		{
+			"id": 4,
+			"title": "春雷の頃",
+			"artist": "22/7",
+			"cover": "assets/music/cover/cl.webp",
+			"url": "assets/music/url/cl.mp3",
+			"duration": 200
+		},
+		{
+			"id": 5,
+			"title": "妄想税",
+			"artist": "DECO*27,初音ミク",
+			"cover": "http://p1.music.126.net/EDcLXmRye4yo5AKac6xjLQ==/5699868278502543.jpg?param=300x300",
+			"url": "https://m10.music.126.net/20260624174624/a34a56b7f44803480f2fda0235f0339b/ymusic/3779/43c7/ecb4/baec7e55cf24a82e8a6a845d8f3aea9e.mp3?vuutv=eAC0hsFi3wu8/pNjsPiDvMa+bNtPv2q/jqZjAfsJv9lRVfBxeECaCNFneD7ubVOcUOJYun32+t4Guf/IHSzD1uHyHm9jeEgO42l219wIVqQi1BQME9fi20R7G75xQPpJEeq5vijV1gdPKSJGEMtdZg==&cdntag=bWFyaz1vc193ZWIscXVhbGl0eV9zdGFuZGFyZA",
+			"duration": 200
+		}
+	]
+}

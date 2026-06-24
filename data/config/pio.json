@@ -1,0 +1,22 @@
+{
+	"models": [
+		"/pio/models/拉薇1/拉薇1.model3.json",
+		"/pio/models/NOIR/noir.model3.json"
+	],
+	"dialog": {
+		"welcome": "Welcome to Mizuki Website!",
+		"touch": [
+			"What are you doing?",
+			"Stop touching me!",
+			"HENTAI!",
+			"Don't bully me like that!"
+		],
+		"home": "Click here to go back to homepage!",
+		"skin": [
+			"Want to see my new outfit?",
+			"The new outfit looks great~"
+		],
+		"close": "QWQ See you next time~",
+		"link": "https://github.com/LyraVoid/Mizuki"
+	}
+}

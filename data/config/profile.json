@@ -1,0 +1,26 @@
+{
+	"avatar": "assets/images/casuki-transparent.webp",
+	"name": "Casumi",
+	"bio": "✨ 在代码和二次元之间反复横跳 ✨",
+	"typewriter": {
+		"enable": true,
+		"speed": 80
+	},
+	"links": [
+		{
+			"name": "GitHub",
+			"icon": "fa7-brands:github",
+			"url": "https://github.com/ca-suki"
+		},
+		{
+			"name": "Codeberg",
+			"icon": "simple-icons:codeberg",
+			"url": "https://codeberg.org/Casumi"
+		},
+		{
+			"name": "Bilibili",
+			"icon": "fa7-brands:bilibili",
+			"url": "https://space.bilibili.com/"
+		}
+	]
+}

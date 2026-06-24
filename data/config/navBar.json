@@ -1,0 +1,69 @@
+{
+	"links": [
+		{ "preset": "Home" },
+		{ "preset": "Archive" },
+		{
+			"name": "链接",
+			"url": "/links/",
+			"icon": "material-symbols:link",
+			"children": [
+				{
+					"name": "GitHub",
+					"url": "https://github.com/Casumi",
+					"external": true,
+					"icon": "fa7-brands:github"
+				},
+				{
+					"name": "Codeberg",
+					"url": "https://codeberg.org/Casumi",
+					"external": true,
+					"icon": "fa7-brands:git"
+				},
+				{
+					"name": "Bilibili",
+					"url": "https://space.bilibili.com/",
+					"external": true,
+					"icon": "fa7-brands:bilibili"
+				}
+			]
+		},
+		{
+			"name": "我的",
+			"url": "/content/",
+			"icon": "material-symbols:person",
+			"children": [
+				{ "preset": "Anime" },
+				{ "preset": "Diary" },
+				{
+					"name": "相册",
+					"url": "/albums/",
+					"icon": "material-symbols:photo-library"
+				}
+			]
+		},
+		{
+			"name": "关于",
+			"url": "/content/",
+			"icon": "material-symbols:info",
+			"children": [
+				{ "preset": "About" },
+				{ "preset": "Friends" }
+			]
+		},
+		{
+			"name": "其他",
+			"url": "#",
+			"icon": "material-symbols:more-horiz",
+			"children": [
+				{ "preset": "Projects" },
+				{ "preset": "Skills" },
+				{ "preset": "Timeline" },
+				{
+					"name": "设备",
+					"url": "/devices/",
+					"icon": "material-symbols:devices"
+				}
+			]
+		}
+	]
+}
