@@ -18,3 +18,7 @@ draft: false
 好像没有生效欸。
 
 再次测试。
+
+## 妄想税
+
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1xx411a7XL&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" &autoplay=0> </iframe>
