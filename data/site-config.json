@@ -1,0 +1,215 @@
+{
+	"site": {
+		"title": "Casumi",
+		"subtitle": "✦ 二次元与技术の交错之境 ✦",
+		"siteURL": "https://casumi713.github.io/",
+		"navbarTitle": {
+			"mode": "text-icon",
+			"text": "Casumi",
+			"icon": "assets/images/casuki-transparent.webp",
+			"logo": "assets/images/casuki-transparent.webp"
+		},
+		"banner": {
+			"desktop": [
+				"/assets/desktop-banner/1.webp",
+				"/assets/desktop-banner/2.webp",
+				"/assets/desktop-banner/3.webp",
+				"/assets/desktop-banner/4.webp",
+				"/assets/desktop-banner/5.webp",
+				"/assets/desktop-banner/6.webp"
+			],
+			"mobile": [
+				"/assets/mobile-banner/1.webp",
+				"/assets/mobile-banner/2.webp",
+				"/assets/mobile-banner/3.webp",
+				"/assets/mobile-banner/4.webp",
+				"/assets/mobile-banner/5.webp",
+				"/assets/mobile-banner/6.webp"
+			],
+			"homeText": {
+				"title": "✨ Casumi's Nest ✨",
+				"subtitle": [
+					"🌸 编程 · 动漫 · 日常 🌸",
+					"🎮 努力成为一个很厉害的人 🎮",
+					"⭐ 在代码与二次元之间徘徊 ⭐",
+					"🍵 一杯茶，一段代码，一部番 🍵"
+				]
+			}
+		}
+	},
+	"navBar": {
+		"links": [
+			{ "preset": "Home" },
+			{ "preset": "Archive" },
+			{
+				"name": "链接",
+				"url": "/links/",
+				"icon": "material-symbols:link",
+				"children": [
+					{
+						"name": "GitHub",
+						"url": "https://github.com/Casumi",
+						"external": true,
+						"icon": "fa7-brands:github"
+					},
+					{
+						"name": "Codeberg",
+						"url": "https://codeberg.org/Casumi",
+						"external": true,
+						"icon": "fa7-brands:git"
+					},
+					{
+						"name": "Bilibili",
+						"url": "https://space.bilibili.com/",
+						"external": true,
+						"icon": "fa7-brands:bilibili"
+					}
+				]
+			},
+			{
+				"name": "我的",
+				"url": "/content/",
+				"icon": "material-symbols:person",
+				"children": [
+					{ "preset": "Anime" },
+					{ "preset": "Diary" },
+					{
+						"name": "相册",
+						"url": "/albums/",
+						"icon": "material-symbols:photo-library"
+					}
+				]
+			},
+			{
+				"name": "关于",
+				"url": "/content/",
+				"icon": "material-symbols:info",
+				"children": [
+					{ "preset": "About" },
+					{ "preset": "Friends" }
+				]
+			},
+			{
+				"name": "其他",
+				"url": "#",
+				"icon": "material-symbols:more-horiz",
+				"children": [
+					{ "preset": "Projects" },
+					{ "preset": "Skills" },
+					{ "preset": "Timeline" },
+					{
+						"name": "设备",
+						"url": "/devices/",
+						"icon": "material-symbols:devices"
+					}
+				]
+			}
+		]
+	},
+	"profile": {
+		"avatar": "assets/images/casuki-transparent.webp",
+		"name": "Casumi",
+		"bio": "✨ 在代码和二次元之间反复横跳 ✨",
+		"typewriter": {
+			"enable": true,
+			"speed": 80
+		},
+		"links": [
+			{
+				"name": "GitHub",
+				"icon": "fa7-brands:github",
+				"url": "https://github.com/ca-suki"
+			},
+			{
+				"name": "Codeberg",
+				"icon": "simple-icons:codeberg",
+				"url": "https://codeberg.org/Casumi"
+			},
+			{
+				"name": "Bilibili",
+				"icon": "fa7-brands:bilibili",
+				"url": "https://space.bilibili.com/"
+			}
+		]
+	},
+	"announcement": {
+		"title": "公告",
+		"content": "🎉 Casumi 的个人博客正式上线啦！欢迎来访~ 🎉",
+		"closable": true,
+		"link": {
+			"enable": true,
+			"text": "了解更多",
+			"url": "/about/",
+			"external": false
+		}
+	},
+	"music": {
+		"localPlaylist": [
+			{
+				"id": 1,
+				"title": "口笛で愛は歌えない",
+				"artist": "Dazbee",
+				"cover": "assets/music/cover/dazbee.webp",
+				"url": "assets/music/url/dazbee.mp3",
+				"duration": 0
+			},
+			{
+				"id": 2,
+				"title": "ひとり上手",
+				"artist": "Kaya",
+				"cover": "assets/music/cover/hitori.webp",
+				"url": "assets/music/url/hitori.mp3",
+				"duration": 240
+			},
+			{
+				"id": 3,
+				"title": "眩耀夜行",
+				"artist": "スリズブーケ",
+				"cover": "assets/music/cover/xryx.webp",
+				"url": "assets/music/url/xryx.mp3",
+				"duration": 180
+			},
+			{
+				"id": 4,
+				"title": "春雷の頃",
+				"artist": "22/7",
+				"cover": "assets/music/cover/cl.webp",
+				"url": "assets/music/url/cl.mp3",
+				"duration": 200
+			},
+			{
+				"id": 5,
+				"title": "妄想税",
+				"artist": "DECO*27,初音ミク",
+				"cover": "http://p1.music.126.net/EDcLXmRye4yo5AKac6xjLQ==/5699868278502543.jpg?param=300x300",
+				"url": "https://m10.music.126.net/20260624174624/a34a56b7f44803480f2fda0235f0339b/ymusic/3779/43c7/ecb4/baec7e55cf24a82e8a6a845d8f3aea9e.mp3?vuutv=eAC0hsFi3wu8/pNjsPiDvMa+bNtPv2q/jqZjAfsJv9lRVfBxeECaCNFneD7ubVOcUOJYun32+t4Guf/IHSzD1uHyHm9jeEgO42l219wIVqQi1BQME9fi20R7G75xQPpJEeq5vijV1gdPKSJGEMtdZg==&cdntag=bWFyaz1vc193ZWIscXVhbGl0eV9zdGFuZGFyZA",
+				"duration": 200
+			}
+		]
+	},
+	"pio": {
+		"models": [
+			"/pio/models/拉薇1/拉薇1.model3.json",
+			"/pio/models/NOIR/noir.model3.json"
+		],
+		"dialog": {
+			"welcome": "Welcome to Mizuki Website!",
+			"touch": [
+				"What are you doing?",
+				"Stop touching me!",
+				"HENTAI!",
+				"Don't bully me like that!"
+			],
+			"home": "Click here to go back to homepage!",
+			"skin": [
+				"Want to see my new outfit?",
+				"The new outfit looks great~"
+			],
+			"close": "QWQ See you next time~",
+			"link": "https://github.com/LyraVoid/Mizuki"
+		}
+	},
+	"footer": {
+		"customHtml": ""
+	}
+}
