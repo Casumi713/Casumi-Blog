@@ -39,6 +39,46 @@
 			"cover": "http://p1.music.126.net/EDcLXmRye4yo5AKac6xjLQ==/5699868278502543.jpg?param=300x300",
 			"url": "https://m10.music.126.net/20260624174624/a34a56b7f44803480f2fda0235f0339b/ymusic/3779/43c7/ecb4/baec7e55cf24a82e8a6a845d8f3aea9e.mp3?vuutv=eAC0hsFi3wu8/pNjsPiDvMa+bNtPv2q/jqZjAfsJv9lRVfBxeECaCNFneD7ubVOcUOJYun32+t4Guf/IHSzD1uHyHm9jeEgO42l219wIVqQi1BQME9fi20R7G75xQPpJEeq5vijV1gdPKSJGEMtdZg==&cdntag=bWFyaz1vc193ZWIscXVhbGl0eV9zdGFuZGFyZA",
 			"duration": 200
+		},
+		{
+			"id": 6,
+			"title": "Brave Shine (Live Ver.)",
+			"artist": "Amier",
+			"cover": "http://p2.music.126.net/NhPt8e7AXG7e8n0lUvXMlA==/109951163085287267.jpg?param=300x300",
+			"url": "https://m701.music.126.net/20260624221751/f11e20fd842cf40279b0b83a3520fa26/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34567127817/8f11/1c7a/c83e/b3a415180dcb5b2e3fe059d880889b8d.mp3?vuutv=2jGklQGX3HUj5HwedPrJdaoNg5BCUs8XX4gRJz2GmEPmXtF8cipnjyn5c0uUQg7YE60pCH7RS1xE+ENdS/ZnVpDZk7HAI2+e3AdrE3Qd1E1eDhXwyqCBdZ0TUsh3DskNr6p6N0ymcVQkQWj/BwXI+Q==&cdntag=bWFyaz1vc193ZWIscXVhbGl0eV9zdGFuZGFyZA",
+			"duration": 200
+		},
+		{
+			"id": 7,
+			"title": "LAST STARDUST (Soundtrack Edit)",
+			"artist": "Amier",
+			"cover": "http://p1.music.126.net/8HsFKEYA9S9r21T81MBFiA==/7982454420397218.jpg?param=300x300",
+			"url": "https://m10.music.126.net/20260624222029/e47ff281ce362c6097713a3d384389f0/ymusic/ee83/80c5/977f/35fe1a40f2ecfb2f1cd1ad80f96c3166.mp3?vuutv=5zov9CuYK34E5OVfQZXC6k2R4for3KjjWJF3GxjZ08NMnDRHHk8fUf96gEHlduNZ2tu7lt/V02PZ1L+negApo+orVQrAeeclv+E5OXLV2pI0CLED4gfCH7KXDdb19GNqSXMuiaJ0rjXLbJmQMXXD7g==&cdntag=bWFyaz1vc193ZWIscXVhbGl0eV9zdGFuZGFyZA",
+			"duration": 200
+		},
+		{
+			"id": 8,
+			"title": "壱雫空",
+			"artist": "It's MyGO!!!!!",
+			"cover": "http://p2.music.126.net/ghFjjfk7C6pCaw80D_aJuw==/109951170476643409.jpg?param=300x300",
+			"url": "https://m801.music.126.net/20260624222455/a24b9402d3710d8e169bcd631abe00a7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29112624704/7ee1/0b57/daa2/1d99b3b7a16fa4999903e9d31e0585e2.mp3?vuutv=WfXa81VYMnmAL3vBHL7khbvcz75xIBnpge1sKzxPHTiovyuijDDjtDrifOFq28xLP8+5Z6Cm9HlxOczVVHNW2MiZz/EiGuGE6ChOgi6jcmS0MBRq0X93bf3HWiD1PQzzL1n5Nu6gfG4FjPcmw516sQ==&cdntag=bWFyaz1vc193ZWIscXVhbGl0eV9zdGFuZGFyZA",
+			"duration": 200
+		},
+		{
+			"id": 9,
+			"title": "天球 (そら) のMúsica",
+			"artist": "Ave Mujica",
+			"cover": "http://p1.music.126.net/wblA3idAX0zF5DVqRQhkHw==/109951170684656424.jpg?param=300x300",
+			"url": "https://m701.music.126.net/20260624222754/285635f9b0c4a73b0f7651f1f4003530/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/59141882135/63bf/9030/4c8b/a6623213ff5a3c239c611ad48e8c16ee.mp3?vuutv=Dr+FhDLUGvhHAWKiQJgXiw5yvGHlhgvGufqm7eOT+jsgjVQoOLNxxMZzF0E6Jb0HO1UcXFcTPv3cKKFRKLMLCrQYAIiGN5ZLZ9rdnkgcxSzTzXSwgjUbzMTeXrzM4HGxqP2w0T/J4DXKrBy8MCsM/A==&cdntag=bWFyaz1vc193ZWIscXVhbGl0eV9zdGFuZGFyZA",
+			"duration": 200
+		},
+		{
+			"id": 10,
+			"title": "覆灭重生 Come Alive Stripped.",
+			"artist": "三Z-STUDIO,HOYO-MiX",
+			"cover": "http://p1.music.126.net/LG92Y-ZMYZnFzWynq5jeWw==/109951170278788820.jpg?param=300x300",
+			"url": "https://m801.music.126.net/20260624223449/94c6be14b8a5ea8ef3ec6e94130b0c1a/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57152145758/824f/cb60/ec74/29780e3c0101bc288b3341513c9df35c.mp3?vuutv=HLnUP+f7SxmJnsmHLMMZ6zHaLZ3xUKQTD7eQx6GRdFHeacTGuHKNDe9ckCdt+cEgAsq3Z4gjRONPhQ+pLKwWH0IvmCzeJtPfhLu68GC9w7BIW0KT9IswR3F3cHT2cys40VRPojbCwCJ0uHHbj3NvbA==&cdntag=bWFyaz1vc193ZWIscXVhbGl0eV9zdGFuZGFyZA",
+			"duration": 200
 		}
 	]
 }

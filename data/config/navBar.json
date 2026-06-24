@@ -9,7 +9,7 @@
 			"children": [
 				{
 					"name": "GitHub",
-					"url": "https://github.com/Casumi",
+					"url": "https://github.com/Casumi713",
 					"external": true,
 					"icon": "fa7-brands:github"
 				},
@@ -17,11 +17,11 @@
 					"name": "Codeberg",
 					"url": "https://codeberg.org/Casumi",
 					"external": true,
-					"icon": "fa7-brands:git"
+					"icon": "simple-icons:codeberg"
 				},
 				{
 					"name": "Bilibili",
-					"url": "https://space.bilibili.com/",
+					"url": "https://space.bilibili.com/5253626",
 					"external": true,
 					"icon": "fa7-brands:bilibili"
 				}
