@@ -18,6 +18,22 @@ export type AnimeItem = {
 
 const localAnimeList: AnimeItem[] = [
 	{
+		title: "ガールズバンドクライ",
+		status: "completed",
+		rating: 9.8,
+		cover: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164212-eKh15LQxkTEx.jpg",
+		description: "Girl's Band Cry",
+		episodes: "13 episodes",
+		year: "2024",
+		genre: ["Action", "Slice of life"],
+		studio: "Toei Animation",
+		link: "https://anilist.co/anime/164212/GIRLS-BAND-CRY/",
+		progress: 12,
+		totalEpisodes: 12,
+		startDate: "2024-07",
+		endDate: "2024-09",
+	},
+	{
 		title: "Lycoris Recoil",
 		status: "completed",
 		rating: 9.8,
