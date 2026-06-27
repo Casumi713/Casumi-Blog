@@ -2,33 +2,33 @@
 	"localPlaylist": [
 		{
 			"id": 1,
-			"title": "口笛で愛は歌えない",
-			"artist": "Dazbee",
-			"cover": "assets/music/cover/dazbee.webp",
-			"url": "assets/music/url/dazbee.mp3",
-			"duration": 0
+			"title": "妄想税",
+			"artist": "瓶子君152",
+			"cover": "http://p1.music.126.net/EDcLXmRye4yo5AKac6xjLQ==/5699868278502543.jpg?param=300x300",
+			"url": "assets/music/url/MousouZei_vbr32k.opus",
+			"duration": 240
 		},
 		{
 			"id": 2,
-			"title": "ひとり上手",
-			"artist": "Kaya",
-			"cover": "assets/music/cover/hitori.webp",
-			"url": "assets/music/url/hitori.mp3",
-			"duration": 240
+			"title": "口笛で愛は歌えない",
+			"artist": "Dazbee",
+			"cover": "http://p1.music.126.net/mp1sDYC9DgJ9yDF9dKj3zg==/109951168943170560.jpg?param=300x300",
+			"url": "assets/music/url/dazbee.mp3",
+			"duration": 0
 		},
 		{
 			"id": 3,
 			"title": "眩耀夜行",
 			"artist": "スリズブーケ",
-			"cover": "assets/music/cover/xryx.webp",
-			"url": "assets/music/url/xryx.mp3",
+			"cover": "http://p1.music.126.net/McJPPDXy-pAA_HZlxfrvqg==/109951171010600800.jpg?param=300x300",
+			"url": "https://music.163.com/song/media/outer/url?id=2090061621.mp3",
 			"duration": 180
 		},
 		{
 			"id": 4,
 			"title": "春雷の頃",
 			"artist": "22/7",
-			"cover": "assets/music/cover/cl.webp",
+			"cover": "http://p1.music.126.net/XknxF16UYpHPzgHI1K9eGg==/109951169481696520.jpg?param=300x300",
 			"url": "assets/music/url/cl.mp3",
 			"duration": 200
 		},
