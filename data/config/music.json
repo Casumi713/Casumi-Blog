@@ -79,6 +79,14 @@
 			"cover": "http://p1.music.126.net/LG92Y-ZMYZnFzWynq5jeWw==/109951170278788820.jpg?param=300x300",
 			"url": "https://music.163.com/song/media/outer/url?id=2658039041.mp3",
 			"duration": 200
+		},
+		{
+			"id": 11,
+			"title": "Spiral",
+			"artist": "LONGMAN",
+			"cover": "http://p2.music.126.net/nRBPxAvRVbb20PaBvL7PNg==/109951168691905184.jpg?param=300x300",
+			"url": "assets/music/url/Spiral-LONGMAN_vbr64k.opus",
+			"duration": 200
 		}
 	]
 }
