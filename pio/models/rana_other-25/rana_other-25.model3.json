@@ -1,0 +1,243 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "rana_other-25.moc3",
+    "Textures": [
+      "texture_00.png",
+      "texture_01.png"
+    ],
+    "Physics": "rana_other-25.physics3.json",
+    "Motions": {
+      "angry": [
+        {
+          "File": "motions/angry01.mtn"
+        },
+        {
+          "File": "motions/angry02.mtn"
+        },
+        {
+          "File": "motions/angry03.mtn"
+        }
+      ],
+      "bye": [
+        {
+          "File": "motions/bye01.mtn"
+        }
+      ],
+      "cry": [
+        {
+          "File": "motions/cry01.mtn"
+        }
+      ],
+      "idle": [
+        {
+          "File": "motions/idle01.mtn"
+        }
+      ],
+      "kime": [
+        {
+          "File": "motions/kime01.mtn"
+        }
+      ],
+      "nf": [
+        {
+          "File": "motions/nf01.mtn"
+        },
+        {
+          "File": "motions/nf02.mtn"
+        },
+        {
+          "File": "motions/nf03.mtn"
+        },
+        {
+          "File": "motions/nf04.mtn"
+        },
+        {
+          "File": "motions/nf05.mtn"
+        }
+      ],
+      "nf_left": [
+        {
+          "File": "motions/nf_left01.mtn"
+        }
+      ],
+      "nf_right": [
+        {
+          "File": "motions/nf_right01.mtn"
+        }
+      ],
+      "niya": [
+        {
+          "File": "motions/niya01.mtn"
+        }
+      ],
+      "nnf": [
+        {
+          "File": "motions/nnf01.mtn"
+        },
+        {
+          "File": "motions/nnf02.mtn"
+        },
+        {
+          "File": "motions/nnf03.mtn"
+        },
+        {
+          "File": "motions/nnf04.mtn"
+        },
+        {
+          "File": "motions/nnf05.mtn"
+        }
+      ],
+      "nnf_left": [
+        {
+          "File": "motions/nnf_left01.mtn"
+        }
+      ],
+      "nnf_right": [
+        {
+          "File": "motions/nnf_right01.mtn"
+        }
+      ],
+      "sad": [
+        {
+          "File": "motions/sad01.mtn"
+        }
+      ],
+      "serious": [
+        {
+          "File": "motions/serious01.mtn"
+        },
+        {
+          "File": "motions/serious02.mtn"
+        }
+      ],
+      "shame": [
+        {
+          "File": "motions/shame01.mtn"
+        }
+      ],
+      "sigh": [
+        {
+          "File": "motions/sigh01.mtn"
+        }
+      ],
+      "smile": [
+        {
+          "File": "motions/smile01.mtn"
+        },
+        {
+          "File": "motions/smile02.mtn"
+        },
+        {
+          "File": "motions/smile04.mtn"
+        }
+      ],
+      "surprised": [
+        {
+          "File": "motions/surprised01.mtn"
+        }
+      ],
+      "thinking": [
+        {
+          "File": "motions/thinking01.mtn"
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "angry01",
+        "File": "expressions/angry01.exp.json"
+      },
+      {
+        "Name": "angry02",
+        "File": "expressions/angry02.exp.json"
+      },
+      {
+        "Name": "angry03",
+        "File": "expressions/angry03.exp.json"
+      },
+      {
+        "Name": "bye01",
+        "File": "expressions/bye01.exp.json"
+      },
+      {
+        "Name": "cry01",
+        "File": "expressions/cry01.exp.json"
+      },
+      {
+        "Name": "default",
+        "File": "expressions/default.exp.json"
+      },
+      {
+        "Name": "idle01",
+        "File": "expressions/idle01.exp.json"
+      },
+      {
+        "Name": "kime01",
+        "File": "expressions/kime01.exp.json"
+      },
+      {
+        "Name": "niya01",
+        "File": "expressions/niya01.exp.json"
+      },
+      {
+        "Name": "sad01",
+        "File": "expressions/sad01.exp.json"
+      },
+      {
+        "Name": "serious01",
+        "File": "expressions/serious01.exp.json"
+      },
+      {
+        "Name": "serious02",
+        "File": "expressions/serious02.exp.json"
+      },
+      {
+        "Name": "shame01",
+        "File": "expressions/shame01.exp.json"
+      },
+      {
+        "Name": "sigh01",
+        "File": "expressions/sigh01.exp.json"
+      },
+      {
+        "Name": "smile01",
+        "File": "expressions/smile01.exp.json"
+      },
+      {
+        "Name": "smile02",
+        "File": "expressions/smile02.exp.json"
+      },
+      {
+        "Name": "smile04",
+        "File": "expressions/smile04.exp.json"
+      },
+      {
+        "Name": "surprised01",
+        "File": "expressions/surprised01.exp.json"
+      },
+      {
+        "Name": "thinking01",
+        "File": "expressions/thinking01.exp.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ],
+  "HitAreas": []
+}
