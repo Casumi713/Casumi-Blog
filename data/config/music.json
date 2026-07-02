@@ -87,6 +87,14 @@
 			"cover": "http://p2.music.126.net/nRBPxAvRVbb20PaBvL7PNg==/109951168691905184.jpg?param=300x300",
 			"url": "assets/music/url/Spiral-LONGMAN_vbr64k.opus",
 			"duration": 200
+		},
+		{
+			"id": 12,
+			"title": "ツバサ",
+			"artist": "ナナホシ&若山詩音",
+			"cover": "http://p1.music.126.net/P8el2Lfj63fJyNQYGcIKBA==/109951169531523725.jpg?param=300x300",
+			"url": "https://music.163.com/song/media/outer/url?id=2149543657.mp3",
+			"duration": 200
 		}
 	]
 }
