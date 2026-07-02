@@ -1,7 +1,8 @@
 {
 	"models": [
 		"/pio/models/拉薇1/拉薇1.model3.json",
-		"/pio/models/NOIR/noir.model3.json"
+		"/pio/models/NOIR/noir.model3.json",
+		"/pio/models/rana_other-25/rana_other-25.model3.json"
 	],
 	"dialog": {
 		"welcome": "Welcome to Mizuki Website!",
