@@ -248,3 +248,25 @@ viu v1.6.1:
     viu
 waycorner v0.2.3:
     waycorner
+
+
+## 关于grub
+
+```
+  GNU nano 8.5                                                                    /etc/default/grub                                                                     已更改
+GRUB_TIMEOUT=120 GRUB_DISTRIBUTOR="$(sed 's, release .*$,,g' /etc/system-release)"
+# 如果使用GRUB_DEFAULT=saved则是使用上一次的作为默认
+GRUB_DEFAULT=2
+GRUB_DISABLE_SUBMENU=true
+GRUB_TERMINAL_OUTPUT="gfxterm"
+
+# initcall_blacklist=acpi_cpufreq_init : 禁用旧的频率驱动，防止与 amd_pstate 冲突
+# amd_pstate=active : 启用 AMD 专用驱动
+# drm.edid_firmware=DP-9:edid/2800x1840_60.bin video=DP-9:e : 自定义的虚拟显示器
+GRUB_CMDLINE_LINUX="rhgb quiet rd.driver.blacklist=nouveau,nova_core modprobe.blacklist=nouveau,nova_core initcall_blacklist=acpi_cpufreq_init amd_pstate=active drm.edid_firmw>
+GRUB_DISABLE_RECOVERY="true"
+GRUB_ENABLE_BLSCFG=true
+GRUB_THEME="/boot/grub2/themes/kawaii-grub-theme/theme.txt"
+GRUB_GFXMODE=2560x1600
+GRUB_GFXPAYLOAD_LINUX=keep
+```
