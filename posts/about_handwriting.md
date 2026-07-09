@@ -3,7 +3,7 @@ title: 有关于生成手写内容的一些想法
 published: 2026-06-27
 pinned: true
 description: 临时想到的有关生成手写字体的思路.
-tags: [Thoughts_Ideas, Blogging]
+tags: [Thoughts&Ideas, Blogging]
 category: Musings
 licenseName: "Unlicensed"
 author: casuki
